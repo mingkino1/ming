@@ -1,1 +1,1 @@
-# mingki bolg
+# mingki blog
